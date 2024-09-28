@@ -14,15 +14,15 @@ function App() {
         <div className="row">
             <div className="image-Section">
                 <div className="displayNoneLogo">
-                    <img src={Logo} alt=""/>
+                    <img src={Logo} alt="Logo"/>
                    <h1>Leaf</h1>
                </div>
-              <img src={Bg} alt="" />
+              <img src={Bg} alt="Bg" />
             </div>
             <div className="form-Section">
                <div className="form-content">
                 <div className="logo">
-                     <img src={Logo} alt=""/>
+                     <img src={Logo} alt="Logo"/>
                     <h1>Leaf</h1>
                 </div>
                  <h2>Create Account</h2>
@@ -45,9 +45,9 @@ function App() {
                      -&nbsp;OR&nbsp;-
                     </p>
                     <div className="SocialAuth">
-                     <div className="icon"><img src={Fb} alt=""/></div>
-                     <div className="icon"><img src={Google} alt=""/></div>
-                     <div className="icon"><img src={Ios} alt=""/></div>
+                     <div className="icon"><img src={Fb} alt="FB"/></div>
+                     <div className="icon"><img src={Google} alt="GOogle"/></div>
+                     <div className="icon"><img src={Ios} alt="Ios"/></div>
                  </div>
                  <p className="login">All Ready have An Account? <a href="#">login</a></p>
                </div>
