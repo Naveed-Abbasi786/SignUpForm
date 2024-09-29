@@ -210,6 +210,9 @@
 }
 /* Media Query for smaller screens */
 @media (max-width: 796px) {
+  .container,.form-Section{
+    background: white;
+  }
   *{
       margin: 0;
       padding: 0;
@@ -329,7 +332,6 @@
       width: 63% !important;
       margin: -5% 22%;
   }
-  
   .form-content {
       width: 90% !important;
   }
