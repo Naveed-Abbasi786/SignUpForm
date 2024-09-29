@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import Bg from './assets/Img/bg.png'
+import Bg from './assets/Img/Bg.png'
 import Google from './assets/Img/Google.png'
 import Fb from './assets/Img/fb.png'
 import Ios from './assets/Img/Ios.png'
@@ -51,8 +50,7 @@ function App() {
                  </div>
                  <p className="login">All Ready have An Account? <a href="#">login</a></p>
                </div>
-            </div>
-            
+            </div>            
         </div>
     </div>
     </>
