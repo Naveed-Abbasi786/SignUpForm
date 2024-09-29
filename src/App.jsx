@@ -1,7 +1,7 @@
 import Bg from './assets/Img/Bg.png'
 import Google from './assets/Img/Google.png'
 import Fb from './assets/Img/fb.png'
-import Ios from './assets/Img/Ios.png'
+import Ios from './assets/Img/ios.png'
 import Logo from './assets/Img/logo.png'
 import './App.css'
 
